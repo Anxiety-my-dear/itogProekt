@@ -1,0 +1,15 @@
+C:\уроки\Lesson sharp\ex5\task68\obj\Debug\net6.0\task68.csproj.AssemblyReference.cache
+C:\уроки\Lesson sharp\ex5\task68\obj\Debug\net6.0\task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\уроки\Lesson sharp\ex5\task68\obj\Debug\net6.0\task68.AssemblyInfoInputs.cache
+C:\уроки\Lesson sharp\ex5\task68\obj\Debug\net6.0\task68.AssemblyInfo.cs
+C:\уроки\Lesson sharp\ex5\task68\obj\Debug\net6.0\task68.csproj.CoreCompileInputs.cache
+C:\уроки\Lesson sharp\ex5\task68\bin\Debug\net6.0\task68.exe
+C:\уроки\Lesson sharp\ex5\task68\bin\Debug\net6.0\task68.deps.json
+C:\уроки\Lesson sharp\ex5\task68\bin\Debug\net6.0\task68.runtimeconfig.json
+C:\уроки\Lesson sharp\ex5\task68\bin\Debug\net6.0\task68.dll
+C:\уроки\Lesson sharp\ex5\task68\bin\Debug\net6.0\task68.pdb
+C:\уроки\Lesson sharp\ex5\task68\obj\Debug\net6.0\task68.dll
+C:\уроки\Lesson sharp\ex5\task68\obj\Debug\net6.0\refint\task68.dll
+C:\уроки\Lesson sharp\ex5\task68\obj\Debug\net6.0\task68.pdb
+C:\уроки\Lesson sharp\ex5\task68\obj\Debug\net6.0\task68.genruntimeconfig.cache
+C:\уроки\Lesson sharp\ex5\task68\obj\Debug\net6.0\ref\task68.dll
